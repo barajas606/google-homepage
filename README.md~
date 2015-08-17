@@ -1,3 +1,110 @@
-# google-homepage
-is this all I have to change in a markdown file?
+	<head><title>Odin Project Google Easy Page</title>
+	<link rel="stylesheet" href="css stylesheet google.css">
+	</head>
+	
+		<body>
+			<ul class="tops">
+				<li id="a"><img src="https://www.prettygoodgoods.org/images/sites/pgg/account-icon.jpg?1383589682"></li>
+				<li id="b"><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmH7X_OtnikHVayJfjg8Eoam5zqnvGw3hRbyBmSCMXStLhNn9R"></li>
+				<li id="c"><img src="http://flatfrogblog.com/wp-content/uploads/2014/01/app-launcher-150x150.png"></li>
+				<li id="d">Images</li>
+				<li id="e">Gmail</li>
+				<li id="f">barajas606</li>
+				
+			</ul>
 
+				<div class="google" ><img src="https://www.google.com/images/srpr/logo11w.png"></div>
+			
+<!-- Use of this code assumes agreement with the Google Custom Search Terms of Service. -->
+<!-- The terms of service are available at http://www.google.com//cse/docs/tos.html -->
+<form name="cse" id="searchbox_demo" action="https://www.google.com/cse">
+  <input type="hidden" name="cref" value="" />
+  <input type="hidden" name="ie" value="utf-8" />
+  <input type="hidden" name="hl" value="" />
+  <input name="q" type="text" size="60" />
+  <div>
+  <input type="submit" name="sa" value="Google Search" />
+  <input type="submit" name="fl" value="I'm Feeling Lucky" />
+  </div>
+</form>
+<script type="text/javascript" src="https%3A%2F%2Fcse.google.com%2Fcse/tools/onthefly?form=searchbox_demo&lang="></script>
+
+
+				<div>
+					<ul class="finalR">
+						<li id="r3">Settings</li>
+						<li id="r2">Terms</li>
+						<li id="r1">Privacy</li>
+					</ul>
+				</div>
+				<div class="finalL">
+					<ul>
+						<li id="l3">About</li>
+						<li id="l2">Buisness</li>	
+						<li id="l1">Advertising</li>
+					</ul>
+				</div>
+
+				
+		</body>
+</html>
+
+
+.google{padding-left: 670px;
+		padding-top: 160px;}
+
+li{display: inline;
+	float: right;
+	width: 60px;}
+
+img{max-height: 29%;
+	max-width: 29%; }
+
+#f{font-size: small;
+	padding-top: 1px;
+    font-family: sans-serif;
+    padding-right: 15px;}
+
+#e{font-family: sans-serif;
+	font-size: small;}
+
+#d{font-family: sans-serif;
+	font-size: small;}
+
+.tops{padding-top: 15px;
+		right: 0%;}
+
+.finalR{background-color: #f5f5f5;
+		right: 0%;
+		width: 100%;
+		font-size: small;}
+
+form{position: absolute;
+	left: 35%;
+	top: 38%;}
+
+form div{position: absolute;
+		left: 25%;
+		bottom: -170%; }
+
+div ul{position: absolute;
+	   bottom: 0%;}
+
+.finalL{background-color: #f5f5f5;
+		width: 50%;
+		left: 0%;}
+		
+#l1{font-size: small;
+font-family: sans-serif;}
+
+#l2{padding-left: 30px;
+	font-size: small;
+	font-family: sans-serif;}
+
+#l3{padding-left: 20px;
+	font-size: small;
+	font-family: sans-serif;}
+	
+	
+
+	
